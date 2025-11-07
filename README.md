@@ -5,4 +5,3 @@ Im technischen Bereich plane ich, meine Kenntnisse in Java und SQL gezielt auszu
 
 Um meinen Fortschritt besser zu steuern, plane ich wöchentliche Lernziele und kurze Reflexionen am Ende jeder Woche. So kann ich meinen Lernfortschritt nachvollziehen, Anpassungen vornehmen und sicherstellen, dass ich meinen Zeitplan einhalte.
 
-
