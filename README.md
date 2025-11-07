@@ -3,6 +3,6 @@ In der nächsten Lernperiode werde ich meine Schwerpunkte auf die Praktikumssuch
 
 Im technischen Bereich plane ich, meine Kenntnisse in Java und SQL gezielt auszubauen. In Java möchte ich mich stärker auf objektorientierte Prinzipien konzentrieren, also Vererbung, Interfaces und Exception Handling vertiefen. Mein bestehendes Projekt will ich erweitern, zum Beispiel durch eine grafische Benutzeroberfläche oder eine Datenbankanbindung. Dabei liegt der Fokus auf sauberer Code-Struktur, nachvollziehbarer Logik und einer stabilen Fehlerbehandlung. Parallel dazu werde ich meine SQL-Kenntnisse festigen, komplexere Abfragen mit JOINs, Aggregatfunktionen und Unterabfragen üben und eine einfache Verbindung zwischen Java und SQL umsetzen. Ziel ist es, ein kleines, funktionsfähiges Datenbankprojekt zu realisieren, das Theorie und Praxis verbindet.
 
-Ein weiterer Punkt ist die Nachbereitung der LB 324 Prüfung. Das letzte Ergebnis hat mir gezeigt, dass ich bestimmte Themen noch vertiefen muss. Ich werde die relevanten Inhalte systematisch wiederholen, Verständnislücken schliessen und mit alten Prüfungen sowie Übungsaufgaben trainieren. Dabei steht nachhaltiges Verständnis im Vordergrund, nicht reines Auswendiglernen.
-
 Um meinen Fortschritt besser zu steuern, plane ich wöchentliche Lernziele und kurze Reflexionen am Ende jeder Woche. So kann ich meinen Lernfortschritt nachvollziehen, Anpassungen vornehmen und sicherstellen, dass ich meinen Zeitplan einhalte.
+
+
