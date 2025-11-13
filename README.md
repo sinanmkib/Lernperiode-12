@@ -5,3 +5,32 @@ Im technischen Bereich plane ich, meine Kenntnisse in Java und SQL gezielt auszu
 
 Um meinen Fortschritt besser zu steuern, plane ich wöchentliche Lernziele und kurze Reflexionen am Ende jeder Woche. So kann ich meinen Lernfortschritt nachvollziehen, Anpassungen vornehmen und sicherstellen, dass ich meinen Zeitplan einhalte.
 
+Wochenplanung & Reflexionen
+
+Freitag
+
+#planung
+Überarbeitung der
+Bewerbungsunterlagen (Lebenslauf und technische Selbstdarstellung) Rückmeldungen zu bisherigen Bewerbungen sammeln und auswerten
+
+**Reflexion:**
+
+Die Überarbeitung hat mein Profil klarer und strukturierter gemacht. Die technische Selbstpräsentation ist noch zu allgemein gewesen, dort muss ich in Zukunft genauer werden.
+
+#### Freitag, letzte Woche (Woche -1) **planung:**
+
+Erstellung eines kleinen
+
+Java-Projekts als Vorbereitung auf ein Vorstellungsgespräch
+
+- Fokus auf sauberes Design mit O0P-Prinzipien
+
+# Reflexion:
+
+Das Projekt ist gut gelungen und zeigt meine Stärken. Gleichzeitig wurde sichtbar, dass ich bei komplexerer Fehlerbehandlung noch Schwächen habe. Die Vorbereitung ich aber klar gelohnt
+
+#### Freitag, morgen (nächster Termin) **planung:**
+
+Übungen zu Java Exception Handling
+
+Übungen zu SQL Unterabfragen Kurze Simulation 
