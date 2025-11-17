@@ -6,31 +6,48 @@ Im technischen Bereich plane ich, meine Kenntnisse in Java und SQL gezielt auszu
 Um meinen Fortschritt besser zu steuern, plane ich wöchentliche Lernziele und kurze Reflexionen am Ende jeder Woche. So kann ich meinen Lernfortschritt nachvollziehen, Anpassungen vornehmen und sicherstellen, dass ich meinen Zeitplan einhalte.
 
 Wochenplanung & Reflexionen
+# Lernperiode 12 – Wochenplanung & Reflexionen
 
-Freitag
+## Freitag, 31.10
+### Planung
+- [x] Überarbeitung der Bewerbungsunterlagen (CV + technische Selbstpräsentation)
+- [x] Rückmeldungen zu bisherigen Bewerbungen sammeln und auswerten
 
-#planung
-Überarbeitung der
-Bewerbungsunterlagen (Lebenslauf und technische Selbstdarstellung) Rückmeldungen zu bisherigen Bewerbungen sammeln und auswerten
+### Reflexion
+- Die Überarbeitung hat mein Profil klarer und strukturierter gemacht.
+- Die technische Selbstpräsentation war noch zu allgemein und muss künftig präziser werden.
 
-**Reflexion:**
+---
 
-Die Überarbeitung hat mein Profil klarer und strukturierter gemacht. Die technische Selbstpräsentation ist noch zu allgemein gewesen, dort muss ich in Zukunft genauer werden.
+## Freitag
+### Planung
+- [x] Erstellung eines kleinen Java-Projekts zur Vorbereitung auf ein Vorstellungsgespräch
+- [x] Fokus auf sauberes Design mit OOP-Prinzipien
 
-#### Freitag, letzte Woche (Woche -1) **planung:**
+### Reflexion
+- Das Projekt ist gut gelungen und zeigt meine Stärken.
+- Schwächen bei komplexerer Fehlerbehandlung wurden sichtbar.
+- Die Vorbereitung hat sich klar gelohnt.
 
-Erstellung eines kleinen
+---
 
-Java-Projekts als Vorbereitung auf ein Vorstellungsgespräch
+## Freitag, 7.11
+### Planung
+- [x] Rekapitulation Prjekt für später Möglichkeiten.
+- [x] Technische Inhalte nochmals durchgehen (OOP, Fehlerbehandlung)
+- [x] Kurze Simulation eines technischen Interviews
 
-- Fokus auf sauberes Design mit O0P-Prinzipien
+### Reflexion
+Das Projekt steht stabil und bietet gute Ansätze für spätere Erweiterungen. Die Wiederholung der technischen Inhalte hat ein paar kleinere Lücken bei Fehlerbehandlung und Interface-Design sichtbar gemacht, aber das Fundament passt. Zusätzlich gab es ein Problem mit dem Browser, das erst durch einen kompletten Wechsel gelöst werden konnte.
 
-# Reflexion:
+---
 
-Das Projekt ist gut gelungen und zeigt meine Stärken. Gleichzeitig wurde sichtbar, dass ich bei komplexerer Fehlerbehandlung noch Schwächen habe. Die Vorbereitung ich aber klar gelohnt
+## Freitag, 14.11
+### Planung
+- [ ] Java: gezielte Übungen zu Exception Handling (tiefer, inkl. Custom Exceptions)
+- [ ] SQL: Übungen zu Unterabfragen
+- [ ] Vorbereitung auf mögliche technische Fragen im Gespräch
 
-#### Freitag, morgen (nächster Termin) **planung:**
+### Reflexion
+*(Platzhalter)*
 
-Übungen zu Java Exception Handling
-
-Übungen zu SQL Unterabfragen Kurze Simulation 
