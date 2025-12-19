@@ -47,7 +47,60 @@ Das Projekt steht stabil und bietet gute Ansätze für spätere Erweiterungen. D
 - [ ] Java: gezielte Übungen zu Exception Handling (tiefer, inkl. Custom Exceptions)
 - [ ] SQL: Übungen zu Unterabfragen
 - [ ] Vorbereitung auf mögliche technische Fragen im Gespräch
+## Freitag, 21.11
+
+### Planung
+- [x] Java: Umsetzung von Custom Exceptions im bestehenden Projekt  
+- [x] Refactoring mit Fokus auf klare Klassenverantwortung  
+- [x] SQL: Wiederholung JOINs anhand eines eigenen Beispiels  
 
 ### Reflexion
-*(Platzhalter)*
+Die Arbeit mit Custom Exceptions hat das Projekt robuster gemacht und mir klarer gezeigt, wo saubere Fehlerbehandlung wirklich Mehrwert bringt. Beim Refactoring wurde sichtbar, dass einige Klassen vorher zu viele Aufgaben hatten. Die SQL-JOINs sind grundsätzlich verstanden, bei komplexeren Kombinationen brauche ich noch Routine.
+
+---
+
+## Freitag, 28.11
+
+### Planung
+- [x] Java: Einführung einer einfachen Datenbankanbindung (JDBC)  
+- [x] SQL: Aggregatfunktionen praktisch einsetzen  
+- [x] Dokumentation des Projekts (Kurzbeschreibung, Struktur, Ziele)  
+
+### Reflexion
+Die JDBC-Anbindung war technisch anspruchsvoll, aber erfolgreich. Besonders das saubere Öffnen und Schliessen von Verbindungen war lehrreich. Aggregatfunktionen funktionieren, müssen aber noch schneller abrufbar werden. Die Dokumentation hat geholfen, mein Projekt auch für Aussenstehende verständlich zu machen.
+
+---
+
+## Freitag, 5.12
+
+### Planung
+- [x] Erweiterung des Projekts um einfache CRUD-Funktionen  
+- [x] Simulation eines technischen Interviews mit Fokus Java + SQL  
+- [x] Durchsicht typischer Interviewfragen  
+
+### Reflexion
+Die CRUD-Funktionen haben Theorie und Praxis gut verbunden. Im Interview-Simulationsteil wurde klar, dass ich fachlich solide bin, aber Antworten teilweise zu ausführlich erkläre. Hier braucht es mehr Präzision und Struktur. Technisch fühle ich mich deutlich sicherer als zu Beginn der Lernperiode.
+
+---
+
+## Freitag, 12.12
+
+### Planung
+- [x] Gesamtüberblick über das Projekt und gezieltes Bugfixing  
+- [x] Vorbereitung einer kurzen, klaren Projektpräsentation  
+- [x] Nachbearbeitung offener Bewerbungen  
+
+### Reflexion
+Das Bugfixing hat kleinere logische Schwächen aufgedeckt, die sich gut beheben liessen. Die Projektpräsentation ist jetzt klar, verständlich und zeitlich sauber strukturiert. Bei den Bewerbungen gab es erste konkrete Rückmeldungen, was bestätigt, dass die Unterlagen auf dem richtigen Niveau sind.
+
+---
+
+## Gesamtreﬂexion Lernperiode 12
+
+Die Lernperiode war insgesamt sehr zielgerichtet und produktiv. Die Kombination aus Praktikumssuche, technischer Vertiefung und kontinuierlicher Reflexion hat gut funktioniert. Besonders stark war der Fortschritt im Bereich Java, vor allem bei objektorientierten Prinzipien und Fehlerbehandlung. Das Projekt hat sich von einer Übung zu einem vorzeigbaren Arbeitsbeispiel entwickelt.
+
+SQL ist stabiler geworden, auch wenn komplexere Abfragen weiterhin Übung brauchen. Die Verbindung zwischen Java und Datenbank war ein zentraler Lerngewinn, da sie praxisnah und relevant ist. Die wöchentlichen Planungen haben geholfen, fokussiert zu bleiben und Schwächen früh zu erkennen.
+
+Insgesamt ist eine klare fachliche Weiterentwicklung sichtbar. Die technische Basis passt. Jetzt geht es darum, Sicherheit, Tempo und Präsentation weiter zu schärfen, insbesondere im Bewerbungskontext.
+
 
